@@ -1,0 +1,15 @@
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\bin\Debug\net6.0\RespuestaDelCodigo.exe
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\bin\Debug\net6.0\RespuestaDelCodigo.deps.json
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\bin\Debug\net6.0\RespuestaDelCodigo.runtimeconfig.json
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\bin\Debug\net6.0\RespuestaDelCodigo.dll
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\bin\Debug\net6.0\RespuestaDelCodigo.pdb
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\RespuestaDelCodigo.csproj.AssemblyReference.cache
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\RespuestaDelCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\RespuestaDelCodigo.AssemblyInfoInputs.cache
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\RespuestaDelCodigo.AssemblyInfo.cs
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\RespuestaDelCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\RespuestaDelCodigo.dll
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\refint\RespuestaDelCodigo.dll
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\RespuestaDelCodigo.pdb
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\RespuestaDelCodigo.genruntimeconfig.cache
+C:\Users\Yeison Mauricio\Desktop\RespuestaDelCodigo\RespuestaDelCodigo\RespuestaDelCodigo\obj\Debug\net6.0\ref\RespuestaDelCodigo.dll
